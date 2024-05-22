@@ -1,7 +1,11 @@
 # robot
 
 Arduino project
-2 HC-SR04
-1 servo motor
-4 wheels and motors
-1 
+4 wheels and DC motors
+1 Arduino Uno R3
+1 L298N motor driver module
+2 Ultrasonic sensor (HC-SR04)
+1 SG90 servo motor
+2 18650 Rechargeable Battery 3.7V
+2 18650 Li-ion Battery Holder with switch on/off
+1 chassis 3D printed
